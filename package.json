@@ -1,0 +1,36 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Week 12 HW",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolinelester/Bamazon.git"
+  },
+  "keywords": [
+    "mysql",
+    "bamazon",
+    "amazon",
+    "commandline",
+    "node.js",
+    "inquirer",
+    "inventory",
+    "shopping"
+  ],
+  "author": "Caroline Lester",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/carolinelester/Bamazon/issues"
+  },
+  "homepage": "https://github.com/carolinelester/Bamazon#readme"
+}
